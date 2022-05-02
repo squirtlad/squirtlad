@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @squirtlad 
 - 👀 I’m interested in writing awesome fast software and developing cool hardware projects
-- 🌱 I’m currently learning a go, VHDL, and refining my PCB design skills
+- 🌱 I’m currently learning go, VHDL, and refining my PCB design skills
 - 🔨 I'm currently working on :
 	- An awesome CAN bus gear indicator
 	- An awesome Verilog NES emulator
